@@ -1,0 +1,14 @@
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net9.0\FactoryPattern.exe
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net9.0\FactoryPattern.deps.json
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net9.0\FactoryPattern.runtimeconfig.json
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net9.0\FactoryPattern.dll
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net9.0\FactoryPattern.pdb
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfo.cs
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.dll
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\refint\FactoryPattern.dll
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.pdb
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\ref\FactoryPattern.dll
