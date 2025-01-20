@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{39462567-CEE4-42E4-8189-BF1FBF6F8B91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdapterCSharp", "SimpleAdapterCSharp\SimpleAdapterCSharp.csproj", "{716F5EE7-489D-4EF4-BACD-CD1CF8BDBFD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{39462567-CEE4-42E4-8189-BF1FBF6F8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39462567-CEE4-42E4-8189-BF1FBF6F8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39462567-CEE4-42E4-8189-BF1FBF6F8B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716F5EE7-489D-4EF4-BACD-CD1CF8BDBFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716F5EE7-489D-4EF4-BACD-CD1CF8BDBFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716F5EE7-489D-4EF4-BACD-CD1CF8BDBFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716F5EE7-489D-4EF4-BACD-CD1CF8BDBFD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
