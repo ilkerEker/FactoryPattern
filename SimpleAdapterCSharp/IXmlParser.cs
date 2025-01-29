@@ -1,7 +1,7 @@
 namespace SimpleAdapterCSharp;
 // Adaptee -> THe interface that is incompatible with the target interface
-public abstract class IXmlParser<T>
+public interface IXmlParser<T>
 {
-    public abstract T Parse(string data);
-    public abstract String ConvertToXml(T obj);
+    T Parse(string data);
+    String ConvertToXml(T obj);
 }

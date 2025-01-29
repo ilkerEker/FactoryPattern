@@ -12,3 +12,4 @@ C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\
 C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.pdb
 C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
 C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\ref\FactoryPattern.dll
+C:\projeler\Rider\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net9.0\FactoryPattern.sourcelink.json
